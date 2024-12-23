@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hey There! I am Ayushman Pattanaik your friendly neighbourhood IT undergrad
 🔭 I’m currently working on a Blog page<br>👯 I’m looking to collaborate on different technologies<br>🤝 I’m looking for help with web technologies<br>🌱 I’m currently learning node js<br>💬 Ask me about web development <br>⚡ Fun fact Love to play games
 
 
